@@ -1,0 +1,55 @@
+"Bulk Edit Items"
+"Item Code","Item Name","Item Revision Number","Item operation","Assembly Location","Manufacturing Stage","Do Not Explode","BOM No","Source Warehouse","Allow Alternative Item","Manufacturer","Manufacturer Part Number","Device Marking","Item Description","Item Revision No","Image","Qty","UOM","Stock Qty","Stock UOM","Conversion Factor","Rate","Basic Rate (Company Currency)","Amount","Amount (Company Currency)","Scrap %","Qty Consumed Per Unit","Has Variants","Include Item In Manufacturing","Original Item","Sourced by Supplier","BOM Item Type"
+"item_code","item_name","item_revision_number","operation","assembly_location","manufacturing_stage","do_not_explode","bom_no","source_warehouse","allow_alternative_item","manufacturer","manufacturer_part_number","device_marking","description","item_revision_no","image","qty","uom","stock_qty","stock_uom","conversion_factor","rate","base_rate","amount","base_amount","scrap","qty_consumed_per_unit","has_variants","include_item_in_manufacturing","original_item","sourced_by_supplier","bom_item_type"
+" "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "
+"The CSV format is case sensitive"
+"Do not edit headers which are preset in the template"
+"------"
+"MRIBEK112","MRIBEK112","","SMD-CS","C6","","","","Stores - KT-01","","MURATA
+","GCM188R72A103KA37D
+","","SMD CAP 10nF 100V X7R 0603","","",1,"Nos",1,"Nos",1,0.33630699,0.33630699,0.34,0.34,"",1,"",1,"","","II"
+"MRIBEK113","MRIBEK113","","SMD-CS","C7","","","","Stores - KT-01","","MURATA
+","GCM155R71H104KE37D
+","","SMD CAP 100nF 50V X7R 0402","","",1,"Nos",1,"Nos",1,0.240976054,0.240976054,0.24,0.24,"",1,"",1,"","","II"
+"MRIBEK114","MRIBEK114","","SMD-CS","C8, C10","","","","Stores - KT-01","","MURATA
+","GCM1555C1H101JA14D
+","","SMD CAP 100pF 10% 50V CGO 0402","","",2,"Nos",2,"Nos",1,0.147689082,0.147689082,0.3,0.3,"",2,"",1,"","","II"
+"MRIBEK115","MRIBEK115","NA","SMD-CS","D3, D4","","","","Stores - KT-01","","VISHAY
+","US1MHE3_A/I
+","","SMD DIODE GEN PURP 1KV 1A DO214AC","NA","",2,"Nos",2,"Nos",1,0.786941618,0.786941618,1.58,1.58,"",2,"",1,"","","II"
+"MRIBEK423","MRIBEK423","NA","SMD-CS","LED2","","","","Stores - KT-01","","LUMILEDS
+LUMILEDS
+","A1VC-P591C01000820
+A1VA-P591C01064760
+","","SMD LED LUXEON Versat 3030 HP 350 PCA","NA","",1,"Nos",1,"Nos",1,"","","","","",1,1,1,"","","II"
+"MRIBEK118","MRIBEK118","NA","SMD-CS","R21, R22, R23","","","","Stores - KT-01","","KOA
+","WK73R2BTTD8450F
+","","SMD RES 845 OHM 1% 1W 0612","NA","",3,"Nos",3,"Nos",1,0.797985006,0.797985006,2.4,2.4,"",3,"",1,"","","II"
+"MRIBEK475","MRIBEK475","NA","SMD-CS","R24","","","","Stores - KT-01","","YAGEO
+ROYAL OHMS
+","AC0603FR-0710KL
+CQ03SAF1002T5E
+","","SMD RES 10Kohm 1% 1/10W 0603","NA","",1,"Nos",1,"Nos",1,0.086822795,0.086822795,0.09,0.09,"",1,"",1,"","","II"
+"MRIBEK119","MRIBEK119","NA","SMD-CS","R13","","","","Stores - KT-01","","YAGEO
+","AC0603FR-07100KL
+","","SMD RES 100Kohm 1% 1/10W 0603","NA","",1,"Nos",1,"Nos",1,0.102407482,0.102407482,0.1,0.1,"",1,"",1,"","","II"
+"MRIBEK120","MRIBEK120","NA","SMD-CS","DZ3","","","","Stores - KT-01","","NEXPERIA
+","BZT52H-B5V6
+","","SMD DIODE  ZENER 5.6V 375MW SOD123F","NA","",1,"Nos",1,"Nos",1,1.055928893,1.055928893,1.06,1.06,"",1,"",1,"","","II"
+"MRIBEK121","MRIBEK121","NA","SMD-CS","DZ4","","","","Stores - KT-01","","NEXPERIA
+","BZT52H-B10
+","","SMD DIODE ZENER 10V 375MW SOD123F","NA","",1,"Nos",1,"Nos",1,1.045985266,1.045985266,1.05,1.05,"",1,"",1,"","","II"
+"MRIBEK122","MRIBEK122","","SMD-CS","Q1","","","","Stores - KT-01","","NEXPERIA
+","PMV120ENEA
+","","SMD TRANS  60V 2.1A 513mW SOT 23","","",1,"Nos",1,"Nos",1,3.224912523,3.224912523,3.22,3.22,"",1,"",1,"","","II"
+"MRICEK205","MRICEK205","NA","SMD-CS","PCB","","","","Stores - KT-01","","","","","BARE PCB MINDA RINDER YAMAHA BST BLINKER PCB-YBLK0169-REVC LH , 2 LAYER,FR-4 TG135 DEG,1.6mm,70uM FINISH COPPER THICKNESS, SOLDER MASK COLOR WHITE,SILK COLOR BLACK, SURFACE FINISH HASL-LF","NA","",1,"Nos",1,"Nos",1,20.27,20.27,20.27,20.27,"",1,"",1,"","","II"
+"MRIBEK478","MRIBEK478","NA","SMD-CS","R14, R15, R16, R17, R18, R19, R20","","","","Stores - KT-01","","KOA
+","WK73R2BTTD3010F
+","","SMD RES 301 OHM 1% 1W 0612(Reversed)","NA","",7,"Nos",7,"Nos",1,0.795357941,0.795357941,5.6,5.6,"",7,"",1,"","","II"
+"MRIBEK477","MRIBEK477","NA","SMD-CS","R14, R15, R16, R17, R18, R19, R20","","","","Stores - KT-01","","KOA
+","WK73R2BTTD3090F
+","","SMD RES 309 OHM 1% 1W 0612(Reversed)","NA","",7,"Nos",7,"Nos",1,0.79156,0.79156,5.53,5.53,"",7,"",1,"","","II"
+"MRIBEK476","MRIBEK476","NA","SMD-CS","R14, R15, R16, R17, R18, R19, R20","","","","Stores - KT-01","","KOA
+","WK73R2BTTD3480F
+","","SMD RES 348 OHM 1% 1W 0612(Reversed)","NA","",7,"Nos",7,"Nos",1,0.802189806,0.802189806,5.6,5.6,"",7,"",1,"","","II"
+"44785-01","44785-01","0","Clearance","Cable","","","","Stores - KT-01","","","","","WIRE HARNESS LH YAMAHA BST BLINKER COLOR: BLACK & CHOCLATE","0","",1,"Nos",1,"Nos",1,15.14,15.14,15.14,15.14,"",1,"",1,"","","II"
